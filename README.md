@@ -1,7 +1,5 @@
 # Cryptography project (16CSE54)
 
-***
-
 # About project
 Enhanced **[Simplified Data Encryption Standard Algorithm](https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/)** to
 protect data and to provide Security to the data.ESDES Algorithm
