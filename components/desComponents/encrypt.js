@@ -1,5 +1,5 @@
 const permutation = require('./permutation');
-const pbox = require('./pbox');
+const pbox = require('../tables/pbox');
 const feistel = require('./feistel');
 
 //This function takes an array of generated keys and 8bit plaintext

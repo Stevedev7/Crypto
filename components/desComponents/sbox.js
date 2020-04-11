@@ -1,4 +1,4 @@
-const pbox = require('./pbox');
+const pbox = require('../tables/pbox');
 
 module.exports = input => {
   //Split the input

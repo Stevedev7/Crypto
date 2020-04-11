@@ -1,6 +1,6 @@
 const permutation = require('./permutation');
-const pbox = require('./pbox');
-const xor = require('./xor');
+const pbox = require('../tables/pbox');
+const xor = require('../other/xor');
 const sbox = require('./sbox');
 
 //Feistel function perfo
