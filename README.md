@@ -18,6 +18,9 @@ decryption time is also increased.
 
 ## Clone project
 
+1. Open the terminal and navigate to the desired location
+1. Run the following code in the terminal
+
 ```bin\bash
 $ git clone https://github.com/Stevedev7/Crypto.git
 $ npm init
