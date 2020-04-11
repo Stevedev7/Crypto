@@ -1,7 +1,7 @@
 # Cryptography project (16CSE54)
 
 # About project
-Enhanced **[Simplified Data Encryption Standard Algorithm](https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/)** to
+Enhanced **[simplified Data Encryption Standard Algorithm](https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/)** to
 protect data and to provide Security to the data.ESDES Algorithm
 uses number of operations and rounds applied to blocks. It
 computes complement operation when text is converted from
@@ -40,7 +40,7 @@ $ node fileEncrypt.js 'inputFileName' 'OutputFileName' 'key'
 
 1. Open terminal
 1. Move into the project folder
-1. Make a file and type the message to be encrypted
+1. Make a file and type the message to be decrypted
 1. Run the following command
 
 ```bin\bash
@@ -58,8 +58,8 @@ $ node fileDecrypt.js 'inputFileName' 'OutputFileName' 'key'
 - [x] Perform encryption and decryption of 8 bit plaintext
 - [x] Perform encryption and decryption of words
 - [x] Perform encryption and decryption using bigger text as a key
-- [x] Make separate modules Encryption and Decryption
+- [x] Make separate modules for Encryption and Decryption
 - [x] Encrypting and Decrypting a file
 - [x] Take input file, output file and key from commandline arguments
-- [ ] Add compliment function in encrypt module
+- [ ] Add complement function in encrypt module
 - [ ] Add other miscellaneous features
