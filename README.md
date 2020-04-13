@@ -50,6 +50,16 @@ $ node fileEncrypt.js 'inputFileName' 'OutputFileName' 'key'
 $ node fileDecrypt.js 'inputFileName' 'OutputFileName' 'key'
 ```
 
+### Frequency analysis
+
+1. Open terminal
+1. Move into the project folder
+1. Run the following command
+
+```bin\bash
+$ node frequency.js filename
+```
+The output is stored in the file frequency.json. It takes input from output.md file if no filename is specified.
 ## Progress
 
 - [x] Make modules Convert text to binary and vice versa
@@ -65,4 +75,5 @@ $ node fileDecrypt.js 'inputFileName' 'OutputFileName' 'key'
 - [x] Encrypting and Decrypting a file
 - [x] Take input file, output file and key from commandline arguments
 - [ ] Add complement function in encrypt module
+- [x] Add frequency analysis
 - [ ] Add other miscellaneous features
