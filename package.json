@@ -1,11 +1,31 @@
 {
   "name": "cns",
   "version": "1.0.0",
-  "description": "",
+  "description": "# About project Enhanced **[simplified Data Encryption Standard Algorithm](https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/)** to protect data and to provide Security to the data.ESDES Algorithm uses number of operations and rounds applied to blocks. It computes complement operation when text is converted from ASCII to binary. Large Number is Decomposed to achieve parallel processing of bits. Adding 1’s complement operations gives additional security and making it difficult for the intruder to attack. As the complexity is increased the encryption and decryption time is also increased.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Steve",
-  "license": "ISC"
+  "author": "Steve Pinto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevedev7/Crypto.git"
+  },
+  "keywords": [
+    "des",
+    "sdes",
+    "encryption",
+    "decryption",
+    "decrypt",
+    "encrypt",
+    "bcrypt",
+    "secure",
+    "simplified",
+    "des"
+  ],
+  "bugs": {
+    "url": "https://github.com/Stevedev7/Crypto/issues"
+  },
+  "homepage": "https://github.com/Stevedev7/Crypto#readme"
 }
