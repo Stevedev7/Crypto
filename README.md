@@ -23,7 +23,7 @@ decryption time is also increased.
 
 ```bin\bash
 $ git clone https://github.com/Stevedev7/Crypto.git
-$ npm init
+$ npm install
 ```
 
 ## Run
